@@ -1,31 +1,24 @@
 //
-//  ViewController.swift
+//  FrontOfShirtViewController.swift
 //  Test
 //
-//  Created by HGPMAC16 on 6/20/17.
+//  Created by Big.SkinnyCo on 8/4/17.
 //  Copyright © 2017 HGPMAC16. All rights reserved.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class FrontOfShirtViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+
+        // Do any additional setup after loading the view.
     }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
-    override func viewDidAppear(_ animated: Bool)
-    {
-
-    }
     
-    
-
 }
-
