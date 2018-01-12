@@ -16,8 +16,7 @@ class RoundedImageView: UIImageView {
         layer.masksToBounds = true
         
         /* border code */
-         layer.borderColor = UIColor.white.cgColor
-        layer.borderWidth = 1.0
+         layer.borderColor = UIColor.white.cgColor;        layer.borderWidth = 1.0
         
     }
     
