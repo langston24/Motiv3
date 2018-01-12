@@ -20,6 +20,9 @@
 		E79FC55A1F34ECE100A0BC34 /* BackOfShirtViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E79FC5591F34ECE100A0BC34 /* BackOfShirtViewController.swift */; };
 		E79FC55C1F35031C00A0BC34 /* FrontOfShirtViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E79FC55B1F35031C00A0BC34 /* FrontOfShirtViewController.swift */; };
 		E79FC55E1F35107900A0BC34 /* MOTIV3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E79FC55D1F35107900A0BC34 /* MOTIV3ViewController.swift */; };
+		E7F5A87A1F3C0789008A7175 /* DrawView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7F5A8791F3C0789008A7175 /* DrawView.swift */; };
+		E7F5A87C1F3C0A28008A7175 /* Line.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7F5A87B1F3C0A28008A7175 /* Line.swift */; };
+		E7F5A87E1F3C1801008A7175 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7F5A87D1F3C1801008A7175 /* ViewController.swift */; };
 		EE8B82D1146BB7F8438DBF4F /* Pods_Test.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0204F73787BC056D08FC939F /* Pods_Test.framework */; };
 /* End PBXBuildFile section */
 
@@ -65,6 +68,9 @@
 		E79FC5591F34ECE100A0BC34 /* BackOfShirtViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BackOfShirtViewController.swift; sourceTree = "<group>"; };
 		E79FC55B1F35031C00A0BC34 /* FrontOfShirtViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FrontOfShirtViewController.swift; sourceTree = "<group>"; };
 		E79FC55D1F35107900A0BC34 /* MOTIV3ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MOTIV3ViewController.swift; sourceTree = "<group>"; };
+		E7F5A8791F3C0789008A7175 /* DrawView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DrawView.swift; sourceTree = "<group>"; };
+		E7F5A87B1F3C0A28008A7175 /* Line.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Line.swift; sourceTree = "<group>"; };
+		E7F5A87D1F3C1801008A7175 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		FE406C47F7BE265CF948D97B /* Pods_TestUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TestUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -149,8 +155,11 @@
 				E73E0C7B1F142D5200CDAE35 /* RoundedImageView.swift */,
 				E79FC5591F34ECE100A0BC34 /* BackOfShirtViewController.swift */,
 				E79FC55B1F35031C00A0BC34 /* FrontOfShirtViewController.swift */,
+				E7F5A8791F3C0789008A7175 /* DrawView.swift */,
+				E7F5A87D1F3C1801008A7175 /* ViewController.swift */,
 				E79FC5571F34E57900A0BC34 /* LoginViewController.swift */,
 				E79FC55D1F35107900A0BC34 /* MOTIV3ViewController.swift */,
+				E7F5A87B1F3C0A28008A7175 /* Line.swift */,
 			);
 			path = Test;
 			sourceTree = "<group>";
@@ -368,8 +377,11 @@
 			files = (
 				E79FC5581F34E57900A0BC34 /* LoginViewController.swift in Sources */,
 				E79FC55A1F34ECE100A0BC34 /* BackOfShirtViewController.swift in Sources */,
+				E7F5A87A1F3C0789008A7175 /* DrawView.swift in Sources */,
+				E7F5A87E1F3C1801008A7175 /* ViewController.swift in Sources */,
 				E79FC55C1F35031C00A0BC34 /* FrontOfShirtViewController.swift in Sources */,
 				E74FF99F1EF9BB820023B43C /* AppDelegate.swift in Sources */,
+				E7F5A87C1F3C0A28008A7175 /* Line.swift in Sources */,
 				E79FC55E1F35107900A0BC34 /* MOTIV3ViewController.swift in Sources */,
 				E73E0C7C1F142D5200CDAE35 /* RoundedImageView.swift in Sources */,
 			);
